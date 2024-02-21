@@ -1,4 +1,11 @@
 # simple-tts
 
-Chrome の音声合成機能を使い、英語を音声化するデモ。
+Web Audio API を使った音声合成のデモです。
 
+## 実行環境
+
+Chrome
+
+## ライセンス
+
+MIT
